@@ -131,7 +131,9 @@ font-weight: 700;
 }
 .number {
     padding-bottom: 25px;
-    font-size: 1.8rem;
+}
+    .number h2 {
+    font-size: 1.6rem;
 }
 }
 
