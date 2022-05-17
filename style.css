@@ -87,7 +87,7 @@ font-weight: 700;
         justify-content: space-evenly;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 2fr;
-        width: 100%;
+        width: 100vw;
     }
     .container {
         border-top-left-radius: 0;
