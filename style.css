@@ -88,7 +88,7 @@ font-weight: 700;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 2fr;
         padding: 0;
-        margin: 50px 10px 50px 10px;
+        margin: 0;
         width: 100%;
        
     }
