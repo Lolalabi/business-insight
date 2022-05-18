@@ -87,9 +87,9 @@ font-weight: 700;
         justify-content: space-evenly;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 2fr;
-        width: 100%;
+        width: 80%;
         padding: 0;
-        margin: 50px 0px 50px 0px;
+        margin: 50px auto;
         
     }
     .container {
@@ -115,6 +115,7 @@ font-weight: 700;
     .image {
         border-bottom-right-radius: 0;
         border-top-left-radius: 8px;
+        display: block;
     }
     .image img {
         border-bottom-right-radius: 0;
